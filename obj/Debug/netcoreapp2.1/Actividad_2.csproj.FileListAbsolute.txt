@@ -1,0 +1,11 @@
+C:\Users\54348\source\repos\A886840.Actividad02\Actividad_2\bin\Debug\netcoreapp2.1\Actividad_2.deps.json
+C:\Users\54348\source\repos\A886840.Actividad02\Actividad_2\bin\Debug\netcoreapp2.1\Actividad_2.runtimeconfig.json
+C:\Users\54348\source\repos\A886840.Actividad02\Actividad_2\bin\Debug\netcoreapp2.1\Actividad_2.runtimeconfig.dev.json
+C:\Users\54348\source\repos\A886840.Actividad02\Actividad_2\bin\Debug\netcoreapp2.1\Actividad_2.dll
+C:\Users\54348\source\repos\A886840.Actividad02\Actividad_2\bin\Debug\netcoreapp2.1\Actividad_2.pdb
+C:\Users\54348\source\repos\A886840.Actividad02\Actividad_2\obj\Debug\netcoreapp2.1\Actividad_2.csprojAssemblyReference.cache
+C:\Users\54348\source\repos\A886840.Actividad02\Actividad_2\obj\Debug\netcoreapp2.1\Actividad_2.csproj.CoreCompileInputs.cache
+C:\Users\54348\source\repos\A886840.Actividad02\Actividad_2\obj\Debug\netcoreapp2.1\Actividad_2.AssemblyInfoInputs.cache
+C:\Users\54348\source\repos\A886840.Actividad02\Actividad_2\obj\Debug\netcoreapp2.1\Actividad_2.AssemblyInfo.cs
+C:\Users\54348\source\repos\A886840.Actividad02\Actividad_2\obj\Debug\netcoreapp2.1\Actividad_2.dll
+C:\Users\54348\source\repos\A886840.Actividad02\Actividad_2\obj\Debug\netcoreapp2.1\Actividad_2.pdb
